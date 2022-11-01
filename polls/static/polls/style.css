@@ -1,0 +1,8 @@
+body {
+background: white url("images/cat_question.jpg") no-repeat;
+background-position: right top;
+background-color:skyblue;
+}
+li a {
+color: yellow;
+}
